@@ -11,7 +11,7 @@ jobs:
        - name: check user permission
          uses: 74th/workflow-permission-action@1.0.0
          with:
-           users: priya100raman,ravikiran2020
+           users: priya100raman,ravikiran2020,shraddha
            
   build:
     name: Ph3 lab build
